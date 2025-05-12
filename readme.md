@@ -36,13 +36,13 @@ Welcome to **VIP Lounge Experience**! This project is designed to provide a prem
 Here are some design previews created in Figma:
 
 ### Design 1
-![Design 1](./Project%202/assets/figma/figma-prototype.png)
+![Design 1](./assets/figma/figma-prototype.png)
 
 ### Design 2
-![Design 2](./Project%202/assets/figma/figma-wire.png)
+![Design 2](./assets/figma/figma-wire.png)
 
 ### Design 3
-![Design 3](./Project%202/assets/figma/moodboard.png)
+![Design 3](./assets/figma/moodboard.png)
 
 
 
@@ -51,10 +51,10 @@ Here are some design previews created in Figma:
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](./Project%202/assets/COZY%20ROOM4.png)
+![Homepage](./assets/COZY%20ROOM4.png)
 
 ### VIP Lounges
-![VIP Lounges](./Project%202/assets/lounges/lounge1.jpg)
+![VIP Lounges](./assets/lounges/lounge1.jpg)
 
 ---
 
